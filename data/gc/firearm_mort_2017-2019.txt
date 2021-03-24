@@ -1,0 +1,249 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2016"	"2016"	219	1556439	14.1
+	"Alabama"	"01"	"2017"	"2017"	225	1551702	14.5
+	"Alabama"	"01"	"2018"	"2018"	228	1542498	14.8
+	"Alabama"	"01"	"2019"	"2019"	212	1538530	13.8
+	"Alaska"	"02"	"2016"	"2016"	49	262601	18.7
+	"Alaska"	"02"	"2017"	"2017"	51	257137	19.8
+	"Alaska"	"02"	"2018"	"2018"	39	254193	15.3
+	"Alaska"	"02"	"2019"	"2019"	43	248135	17.3
+	"Arizona"	"04"	"2016"	"2016"	164	2303760	7.1
+	"Arizona"	"04"	"2017"	"2017"	194	2305933	8.4
+	"Arizona"	"04"	"2018"	"2018"	205	2330053	8.8
+	"Arizona"	"04"	"2019"	"2019"	183	2334080	7.8
+	"Arkansas"	"05"	"2016"	"2016"	90	986791	9.1
+	"Arkansas"	"05"	"2017"	"2017"	115	986888	11.7
+	"Arkansas"	"05"	"2018"	"2018"	109	983758	11.1
+	"Arkansas"	"05"	"2019"	"2019"	129	979215	13.2
+	"California"	"06"	"2016"	"2016"	660	12941650	5.1
+	"California"	"06"	"2017"	"2017"	634	12859088	4.9
+	"California"	"06"	"2018"	"2018"	566	12735350	4.4
+	"California"	"06"	"2019"	"2019"	529	12572676	4.2
+	"Colorado"	"08"	"2016"	"2016"	131	1795503	7.3
+	"Colorado"	"08"	"2017"	"2017"	127	1783063	7.1
+	"Colorado"	"08"	"2018"	"2018"	157	1792063	8.8
+	"Colorado"	"08"	"2019"	"2019"	156	1785736	8.7
+	"Connecticut"	"09"	"2016"	"2016"	27	1105318	2.4
+	"Connecticut"	"09"	"2017"	"2017"	30	1096009	2.7
+	"Connecticut"	"09"	"2018"	"2018"	22	1082062	2.0
+	"Connecticut"	"09"	"2019"	"2019"	25	1069513	2.3
+	"Delaware"	"10"	"2016"	"2016"	23	289858	7.9
+	"Delaware"	"10"	"2017"	"2017"	34	289458	11.7
+	"Delaware"	"10"	"2018"	"2018"	31	287424	10.8
+	"Delaware"	"10"	"2019"	"2019"	19	286066	Unreliable
+	"District of Columbia"	"11"	"2016"	"2016"	39	201034	19.4
+	"District of Columbia"	"11"	"2017"	"2017"	30	199256	15.1
+	"District of Columbia"	"11"	"2018"	"2018"	49	201636	24.3
+	"District of Columbia"	"11"	"2019"	"2019"	62	200734	30.9
+	"Florida"	"12"	"2016"	"2016"	449	5886335	7.6
+	"Florida"	"12"	"2017"	"2017"	469	5943771	7.9
+	"Florida"	"12"	"2018"	"2018"	467	5983262	7.8
+	"Florida"	"12"	"2019"	"2019"	470	5972697	7.9
+	"Georgia"	"13"	"2016"	"2016"	377	3516930	10.7
+	"Georgia"	"13"	"2017"	"2017"	373	3518129	10.6
+	"Georgia"	"13"	"2018"	"2018"	333	3516098	9.5
+	"Georgia"	"13"	"2019"	"2019"	372	3519069	10.6
+	"Hawaii"	"15"	"2016"	"2016"	12	436787	Unreliable
+	"Idaho"	"16"	"2016"	"2016"	40	593736	6.7
+	"Idaho"	"16"	"2017"	"2017"	46	602586	7.6
+	"Idaho"	"16"	"2018"	"2018"	59	609740	9.7
+	"Idaho"	"16"	"2019"	"2019"	43	612607	7.0
+	"Illinois"	"17"	"2016"	"2016"	482	4140620	11.6
+	"Illinois"	"17"	"2017"	"2017"	484	4092288	11.8
+	"Illinois"	"17"	"2018"	"2018"	365	4033576	9.0
+	"Illinois"	"17"	"2019"	"2019"	385	3975286	9.7
+	"Indiana"	"18"	"2016"	"2016"	227	2236706	10.1
+	"Indiana"	"18"	"2017"	"2017"	226	2231283	10.1
+	"Indiana"	"18"	"2018"	"2018"	224	2224107	10.1
+	"Indiana"	"18"	"2019"	"2019"	225	2227719	10.1
+	"Iowa"	"19"	"2016"	"2016"	56	1052828	5.3
+	"Iowa"	"19"	"2017"	"2017"	60	1052485	5.7
+	"Iowa"	"19"	"2018"	"2018"	53	1049797	5.0
+	"Iowa"	"19"	"2019"	"2019"	61	1040546	5.9
+	"Kansas"	"20"	"2016"	"2016"	77	1012084	7.6
+	"Kansas"	"20"	"2017"	"2017"	99	1008807	9.8
+	"Kansas"	"20"	"2018"	"2018"	91	1000696	9.1
+	"Kansas"	"20"	"2019"	"2019"	87	994410	8.7
+	"Kentucky"	"21"	"2016"	"2016"	143	1430594	10.0
+	"Kentucky"	"21"	"2017"	"2017"	136	1428955	9.5
+	"Kentucky"	"21"	"2018"	"2018"	129	1426561	9.0
+	"Kentucky"	"21"	"2019"	"2019"	124	1416825	8.8
+	"Louisiana"	"22"	"2016"	"2016"	234	1556482	15.0
+	"Louisiana"	"22"	"2017"	"2017"	264	1543550	17.1
+	"Louisiana"	"22"	"2018"	"2018"	238	1521265	15.6
+	"Louisiana"	"22"	"2019"	"2019"	243	1506673	16.1
+	"Maine"	"23"	"2016"	"2016"	21	364997	5.8
+	"Maine"	"23"	"2017"	"2017"	20	362296	5.5
+	"Maine"	"23"	"2018"	"2018"	16	357528	Unreliable
+	"Maine"	"23"	"2019"	"2019"	20	355774	5.6
+	"Maryland"	"24"	"2016"	"2016"	188	1895589	9.9
+	"Maryland"	"24"	"2017"	"2017"	179	1888194	9.5
+	"Maryland"	"24"	"2018"	"2018"	149	1871508	8.0
+	"Maryland"	"24"	"2019"	"2019"	170	1860836	9.1
+	"Massachusetts"	"25"	"2016"	"2016"	50	2082353	2.4
+	"Massachusetts"	"25"	"2017"	"2017"	62	2070354	3.0
+	"Massachusetts"	"25"	"2018"	"2018"	47	2068786	2.3
+	"Massachusetts"	"25"	"2019"	"2019"	47	2043521	2.3
+	"Michigan"	"26"	"2016"	"2016"	242	3166702	7.6
+	"Michigan"	"26"	"2017"	"2017"	216	3147456	6.9
+	"Michigan"	"26"	"2018"	"2018"	250	3126607	8.0
+	"Michigan"	"26"	"2019"	"2019"	222	3089456	7.2
+	"Minnesota"	"27"	"2016"	"2016"	77	1795875	4.3
+	"Minnesota"	"27"	"2017"	"2017"	86	1804045	4.8
+	"Minnesota"	"27"	"2018"	"2018"	91	1804251	5.0
+	"Minnesota"	"27"	"2019"	"2019"	86	1801275	4.8
+	"Mississippi"	"28"	"2016"	"2016"	135	1017205	13.3
+	"Mississippi"	"28"	"2017"	"2017"	127	1005947	12.6
+	"Mississippi"	"28"	"2018"	"2018"	155	998065	15.5
+	"Mississippi"	"28"	"2019"	"2019"	159	982004	16.2
+	"Missouri"	"29"	"2016"	"2016"	250	1965554	12.7
+	"Missouri"	"29"	"2017"	"2017"	290	1953923	14.8
+	"Missouri"	"29"	"2018"	"2018"	265	1943215	13.6
+	"Missouri"	"29"	"2019"	"2019"	294	1932089	15.2
+	"Montana"	"30"	"2016"	"2016"	31	326913	9.5
+	"Montana"	"30"	"2017"	"2017"	30	327235	9.2
+	"Montana"	"30"	"2018"	"2018"	23	327879	7.0
+	"Montana"	"30"	"2019"	"2019"	37	326352	11.3
+	"Nebraska"	"31"	"2016"	"2016"	31	666043	4.7
+	"Nebraska"	"31"	"2017"	"2017"	34	666751	5.1
+	"Nebraska"	"31"	"2018"	"2018"	30	667549	4.5
+	"Nebraska"	"31"	"2019"	"2019"	36	665372	5.4
+	"Nevada"	"32"	"2016"	"2016"	91	927652	9.8
+	"Nevada"	"32"	"2017"	"2017"	99	934490	10.6
+	"Nevada"	"32"	"2018"	"2018"	87	937786	9.3
+	"Nevada"	"32"	"2019"	"2019"	72	942859	7.6
+	"New Hampshire"	"33"	"2016"	"2016"	17	388104	Unreliable
+	"New Hampshire"	"33"	"2017"	"2017"	22	385832	5.7
+	"New Hampshire"	"33"	"2018"	"2018"	21	384307	5.5
+	"New Hampshire"	"33"	"2019"	"2019"	19	378944	Unreliable
+	"New Jersey"	"34"	"2016"	"2016"	125	2771495	4.5
+	"New Jersey"	"34"	"2017"	"2017"	97	2766236	3.5
+	"New Jersey"	"34"	"2018"	"2018"	79	2719649	2.9
+	"New Jersey"	"34"	"2019"	"2019"	81	2692212	3.0
+	"New Mexico"	"35"	"2016"	"2016"	68	691025	9.8
+	"New Mexico"	"35"	"2017"	"2017"	84	687236	12.2
+	"New Mexico"	"35"	"2018"	"2018"	91	679608	13.4
+	"New Mexico"	"35"	"2019"	"2019"	93	671713	13.8
+	"New York"	"36"	"2016"	"2016"	188	6085610	3.1
+	"New York"	"36"	"2017"	"2017"	155	6027039	2.6
+	"New York"	"36"	"2018"	"2018"	170	5868268	2.9
+	"New York"	"36"	"2019"	"2019"	141	5790843	2.4
+	"North Carolina"	"37"	"2016"	"2016"	280	3264954	8.6
+	"North Carolina"	"37"	"2017"	"2017"	250	3274862	7.6
+	"North Carolina"	"37"	"2018"	"2018"	283	3284479	8.6
+	"North Carolina"	"37"	"2019"	"2019"	299	3291302	9.1
+	"North Dakota"	"38"	"2016"	"2016"	19	267423	Unreliable
+	"North Dakota"	"38"	"2017"	"2017"	19	262211	Unreliable
+	"North Dakota"	"38"	"2018"	"2018"	17	263410	Unreliable
+	"North Dakota"	"38"	"2019"	"2019"	13	262993	Unreliable
+	"Ohio"	"39"	"2016"	"2016"	318	3687657	8.6
+	"Ohio"	"39"	"2017"	"2017"	350	3678803	9.5
+	"Ohio"	"39"	"2018"	"2018"	317	3661523	8.7
+	"Ohio"	"39"	"2019"	"2019"	321	3638330	8.8
+	"Oklahoma"	"40"	"2016"	"2016"	138	1344709	10.3
+	"Oklahoma"	"40"	"2017"	"2017"	150	1339161	11.2
+	"Oklahoma"	"40"	"2018"	"2018"	105	1336166	7.9
+	"Oklahoma"	"40"	"2019"	"2019"	139	1333143	10.4
+	"Oregon"	"41"	"2016"	"2016"	66	1234305	5.3
+	"Oregon"	"41"	"2017"	"2017"	64	1236701	5.2
+	"Oregon"	"41"	"2018"	"2018"	86	1238611	6.9
+	"Oregon"	"41"	"2019"	"2019"	72	1229584	5.9
+	"Pennsylvania"	"42"	"2016"	"2016"	329	3862403	8.5
+	"Pennsylvania"	"42"	"2017"	"2017"	363	3840894	9.5
+	"Pennsylvania"	"42"	"2018"	"2018"	328	3809193	8.6
+	"Pennsylvania"	"42"	"2019"	"2019"	282	3776772	7.5
+	"Rhode Island"	"44"	"2018"	"2018"	10	316116	Unreliable
+	"South Carolina"	"45"	"2016"	"2016"	173	1566157	11.0
+	"South Carolina"	"45"	"2017"	"2017"	162	1572462	10.3
+	"South Carolina"	"45"	"2018"	"2018"	207	1574168	13.1
+	"South Carolina"	"45"	"2019"	"2019"	237	1578582	15.0
+	"South Dakota"	"46"	"2016"	"2016"	21	297892	7.0
+	"South Dakota"	"46"	"2017"	"2017"	22	297659	7.4
+	"South Dakota"	"46"	"2018"	"2018"	28	301035	9.3
+	"South Dakota"	"46"	"2019"	"2019"	25	299497	8.3
+	"Tennessee"	"47"	"2016"	"2016"	234	2119662	11.0
+	"Tennessee"	"47"	"2017"	"2017"	264	2120175	12.5
+	"Tennessee"	"47"	"2018"	"2018"	283	2120010	13.3
+	"Tennessee"	"47"	"2019"	"2019"	240	2122491	11.3
+	"Texas"	"48"	"2016"	"2016"	715	10062309	7.1
+	"Texas"	"48"	"2017"	"2017"	734	10134466	7.2
+	"Texas"	"48"	"2018"	"2018"	709	10194178	7.0
+	"Texas"	"48"	"2019"	"2019"	807	10213110	7.9
+	"Utah"	"49"	"2016"	"2016"	76	1265056	6.0
+	"Utah"	"49"	"2017"	"2017"	85	1272360	6.7
+	"Utah"	"49"	"2018"	"2018"	78	1288772	6.1
+	"Utah"	"49"	"2019"	"2019"	81	1293263	6.3
+	"Virginia"	"51"	"2016"	"2016"	213	2682330	7.9
+	"Virginia"	"51"	"2017"	"2017"	214	2674111	8.0
+	"Virginia"	"51"	"2018"	"2018"	241	2674839	9.0
+	"Virginia"	"51"	"2019"	"2019"	208	2659045	7.8
+	"Washington"	"53"	"2016"	"2016"	113	2290692	4.9
+	"Washington"	"53"	"2017"	"2017"	145	2298685	6.3
+	"Washington"	"53"	"2018"	"2018"	158	2320731	6.8
+	"Washington"	"53"	"2019"	"2019"	122	2321569	5.3
+	"West Virginia"	"54"	"2016"	"2016"	46	536703	8.6
+	"West Virginia"	"54"	"2017"	"2017"	31	528323	5.9
+	"West Virginia"	"54"	"2018"	"2018"	39	521009	7.5
+	"West Virginia"	"54"	"2019"	"2019"	47	513353	9.2
+	"Wisconsin"	"55"	"2016"	"2016"	134	1849554	7.2
+	"Wisconsin"	"55"	"2017"	"2017"	110	1839857	6.0
+	"Wisconsin"	"55"	"2018"	"2018"	99	1827868	5.4
+	"Wisconsin"	"55"	"2019"	"2019"	100	1812667	5.5
+	"Wyoming"	"56"	"2016"	"2016"	11	194089	Unreliable
+	"Wyoming"	"56"	"2017"	"2017"	16	189022	Unreliable
+	"Wyoming"	"56"	"2018"	"2018"	23	187142	12.3
+	"Wyoming"	"56"	"2019"	"2019"	23	186255	12.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"ICD-10 113 Cause List: Accidental discharge of firearms (W32-W34); Intentional self-harm (suicide) by discharge of firearms"
+"(X72-X74); Assault (homicide) by discharge of firearms (*U01.4,X93-X95); Discharge of firearms, undetermined intent (Y22-Y24)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years"
+"Year/Month: 2016; 2017; 2018; 2019"
+"Group By: State; Year"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 24, 2021 6:19:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 24, 2021 6:19:23 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
