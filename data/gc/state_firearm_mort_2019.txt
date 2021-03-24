@@ -1,0 +1,151 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Injury Intent"	"Injury Intent Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	"2019"	"2019"	"Unintentional"	"1"	11	1538530	Unreliable
+	"Alabama"	"01"	"2019"	"2019"	"Suicide"	"2"	67	1538530	4.4
+	"Alabama"	"01"	"2019"	"2019"	"Homicide"	"3"	130	1538530	8.4
+	"Alaska"	"02"	"2019"	"2019"	"Suicide"	"2"	28	248135	11.3
+	"Alaska"	"02"	"2019"	"2019"	"Homicide"	"3"	11	248135	Unreliable
+	"Arizona"	"04"	"2019"	"2019"	"Suicide"	"2"	83	2334080	3.6
+	"Arizona"	"04"	"2019"	"2019"	"Homicide"	"3"	89	2334080	3.8
+	"Arkansas"	"05"	"2019"	"2019"	"Suicide"	"2"	55	979215	5.6
+	"Arkansas"	"05"	"2019"	"2019"	"Homicide"	"3"	64	979215	6.5
+	"California"	"06"	"2019"	"2019"	"Suicide"	"2"	141	12572676	1.1
+	"California"	"06"	"2019"	"2019"	"Homicide"	"3"	379	12572676	3.0
+	"Colorado"	"08"	"2019"	"2019"	"Suicide"	"2"	93	1785736	5.2
+	"Colorado"	"08"	"2019"	"2019"	"Homicide"	"3"	59	1785736	3.3
+	"Connecticut"	"09"	"2019"	"2019"	"Homicide"	"3"	18	1069513	Unreliable
+	"Delaware"	"10"	"2019"	"2019"	"Homicide"	"3"	16	286066	Unreliable
+	"District of Columbia"	"11"	"2019"	"2019"	"Homicide"	"3"	60	200734	29.9
+	"Florida"	"12"	"2019"	"2019"	"Suicide"	"2"	157	5972697	2.6
+	"Florida"	"12"	"2019"	"2019"	"Homicide"	"3"	306	5972697	5.1
+	"Georgia"	"13"	"2019"	"2019"	"Unintentional"	"1"	10	3519069	Unreliable
+	"Georgia"	"13"	"2019"	"2019"	"Suicide"	"2"	120	3519069	3.4
+	"Georgia"	"13"	"2019"	"2019"	"Homicide"	"3"	237	3519069	6.7
+	"Idaho"	"16"	"2019"	"2019"	"Suicide"	"2"	38	612607	6.2
+	"Illinois"	"17"	"2019"	"2019"	"Suicide"	"2"	53	3975286	1.3
+	"Illinois"	"17"	"2019"	"2019"	"Homicide"	"3"	318	3975286	8.0
+	"Indiana"	"18"	"2019"	"2019"	"Suicide"	"2"	73	2227719	3.3
+	"Indiana"	"18"	"2019"	"2019"	"Homicide"	"3"	139	2227719	6.2
+	"Iowa"	"19"	"2019"	"2019"	"Suicide"	"2"	39	1040546	3.7
+	"Iowa"	"19"	"2019"	"2019"	"Homicide"	"3"	19	1040546	Unreliable
+	"Kansas"	"20"	"2019"	"2019"	"Suicide"	"2"	50	994410	5.0
+	"Kansas"	"20"	"2019"	"2019"	"Homicide"	"3"	36	994410	3.6
+	"Kentucky"	"21"	"2019"	"2019"	"Suicide"	"2"	47	1416825	3.3
+	"Kentucky"	"21"	"2019"	"2019"	"Homicide"	"3"	68	1416825	4.8
+	"Louisiana"	"22"	"2019"	"2019"	"Suicide"	"2"	61	1506673	4.0
+	"Louisiana"	"22"	"2019"	"2019"	"Homicide"	"3"	173	1506673	11.5
+	"Maine"	"23"	"2019"	"2019"	"Suicide"	"2"	17	355774	Unreliable
+	"Maryland"	"24"	"2019"	"2019"	"Suicide"	"2"	24	1860836	1.3
+	"Maryland"	"24"	"2019"	"2019"	"Homicide"	"3"	146	1860836	7.8
+	"Massachusetts"	"25"	"2019"	"2019"	"Suicide"	"2"	13	2043521	Unreliable
+	"Massachusetts"	"25"	"2019"	"2019"	"Homicide"	"3"	33	2043521	1.6
+	"Michigan"	"26"	"2019"	"2019"	"Suicide"	"2"	82	3089456	2.7
+	"Michigan"	"26"	"2019"	"2019"	"Homicide"	"3"	135	3089456	4.4
+	"Minnesota"	"27"	"2019"	"2019"	"Suicide"	"2"	53	1801275	2.9
+	"Minnesota"	"27"	"2019"	"2019"	"Homicide"	"3"	32	1801275	1.8
+	"Mississippi"	"28"	"2019"	"2019"	"Suicide"	"2"	45	982004	4.6
+	"Mississippi"	"28"	"2019"	"2019"	"Homicide"	"3"	105	982004	10.7
+	"Missouri"	"29"	"2019"	"2019"	"Unintentional"	"1"	12	1932089	Unreliable
+	"Missouri"	"29"	"2019"	"2019"	"Suicide"	"2"	100	1932089	5.2
+	"Missouri"	"29"	"2019"	"2019"	"Homicide"	"3"	179	1932089	9.3
+	"Montana"	"30"	"2019"	"2019"	"Suicide"	"2"	29	326352	8.9
+	"Nebraska"	"31"	"2019"	"2019"	"Suicide"	"2"	16	665372	Unreliable
+	"Nebraska"	"31"	"2019"	"2019"	"Homicide"	"3"	17	665372	Unreliable
+	"Nevada"	"32"	"2019"	"2019"	"Suicide"	"2"	35	942859	3.7
+	"Nevada"	"32"	"2019"	"2019"	"Homicide"	"3"	33	942859	3.5
+	"New Hampshire"	"33"	"2019"	"2019"	"Suicide"	"2"	15	378944	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"Suicide"	"2"	14	2692212	Unreliable
+	"New Jersey"	"34"	"2019"	"2019"	"Homicide"	"3"	67	2692212	2.5
+	"New Mexico"	"35"	"2019"	"2019"	"Suicide"	"2"	48	671713	7.1
+	"New Mexico"	"35"	"2019"	"2019"	"Homicide"	"3"	42	671713	6.3
+	"New York"	"36"	"2019"	"2019"	"Suicide"	"2"	45	5790843	0.8
+	"New York"	"36"	"2019"	"2019"	"Homicide"	"3"	94	5790843	1.6
+	"North Carolina"	"37"	"2019"	"2019"	"Unintentional"	"1"	13	3291302	Unreliable
+	"North Carolina"	"37"	"2019"	"2019"	"Suicide"	"2"	95	3291302	2.9
+	"North Carolina"	"37"	"2019"	"2019"	"Homicide"	"3"	187	3291302	5.7
+	"North Dakota"	"38"	"2019"	"2019"	"Suicide"	"2"	12	262993	Unreliable
+	"Ohio"	"39"	"2019"	"2019"	"Suicide"	"2"	133	3638330	3.7
+	"Ohio"	"39"	"2019"	"2019"	"Homicide"	"3"	179	3638330	4.9
+	"Oklahoma"	"40"	"2019"	"2019"	"Suicide"	"2"	72	1333143	5.4
+	"Oklahoma"	"40"	"2019"	"2019"	"Homicide"	"3"	60	1333143	4.5
+	"Oregon"	"41"	"2019"	"2019"	"Suicide"	"2"	59	1229584	4.8
+	"Oregon"	"41"	"2019"	"2019"	"Homicide"	"3"	12	1229584	Unreliable
+	"Pennsylvania"	"42"	"2019"	"2019"	"Suicide"	"2"	91	3776772	2.4
+	"Pennsylvania"	"42"	"2019"	"2019"	"Homicide"	"3"	185	3776772	4.9
+	"South Carolina"	"45"	"2019"	"2019"	"Suicide"	"2"	72	1578582	4.6
+	"South Carolina"	"45"	"2019"	"2019"	"Homicide"	"3"	155	1578582	9.8
+	"South Dakota"	"46"	"2019"	"2019"	"Suicide"	"2"	20	299497	6.7
+	"Tennessee"	"47"	"2019"	"2019"	"Suicide"	"2"	81	2122491	3.8
+	"Tennessee"	"47"	"2019"	"2019"	"Homicide"	"3"	148	2122491	7.0
+	"Texas"	"48"	"2019"	"2019"	"Unintentional"	"1"	22	10213110	0.2
+	"Texas"	"48"	"2019"	"2019"	"Suicide"	"2"	352	10213110	3.4
+	"Texas"	"48"	"2019"	"2019"	"Homicide"	"3"	415	10213110	4.1
+	"Texas"	"48"	"2019"	"2019"	"Undetermined "	"4"	18	10213110	Unreliable
+	"Utah"	"49"	"2019"	"2019"	"Suicide"	"2"	65	1293263	5.0
+	"Utah"	"49"	"2019"	"2019"	"Homicide"	"3"	13	1293263	Unreliable
+	"Virginia"	"51"	"2019"	"2019"	"Suicide"	"2"	89	2659045	3.3
+	"Virginia"	"51"	"2019"	"2019"	"Homicide"	"3"	115	2659045	4.3
+	"Washington"	"53"	"2019"	"2019"	"Suicide"	"2"	70	2321569	3.0
+	"Washington"	"53"	"2019"	"2019"	"Homicide"	"3"	49	2321569	2.1
+	"West Virginia"	"54"	"2019"	"2019"	"Suicide"	"2"	27	513353	5.3
+	"West Virginia"	"54"	"2019"	"2019"	"Homicide"	"3"	15	513353	Unreliable
+	"Wisconsin"	"55"	"2019"	"2019"	"Suicide"	"2"	52	1812667	2.9
+	"Wisconsin"	"55"	"2019"	"2019"	"Homicide"	"3"	45	1812667	2.5
+	"Wyoming"	"56"	"2019"	"2019"	"Suicide"	"2"	18	186255	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2019"
+"Query Parameters:"
+"ICD-10 113 Cause List: Accidental discharge of firearms (W32-W34); Intentional self-harm (suicide) by discharge of firearms"
+"(X72-X74); Assault (homicide) by discharge of firearms (*U01.4,X93-X95); Discharge of firearms, undetermined intent (Y22-Y24)"
+"Ten-Year Age Groups: < 1 year; 1-4 years; 5-14 years; 15-24 years"
+"Year/Month: 2019"
+"Group By: State; Year; Injury Intent"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 24, 2021 5:55:21 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 24, 2021 5:55:21 PM"
+"---"
+Messages:
+"1. Selections made to any variable in [ICD-10 113 Cause List, Injury Intent] cause equivalent selections in the other variables."
+"More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"2. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"4. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident population, from the Vintage 2011"
+"postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for the infant age"
+"groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
